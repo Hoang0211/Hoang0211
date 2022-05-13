@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am a motivated, hardworking software developer with a strong background in front-end development. I have 2 years of experience using Unity game engine with C#, and 1 year+ experience working with front-end technologies like ReactJS, Typescript, Redux, and SASS. I help companies develop web application using mordern web technologies.
+
+Rightnow, I am a third year student at South-Eastern University of Applied Sciences and working as a full stack developer trainee at Integrify. I am looking for opportunities to gain more experience as a web developer.
+
+- 📫 How to reach me: email[nguyenhoang21155@gmail.com]
+- 💬 Ask me about anything, I'm happy to help!
 <!--
 **Hoang0211/Hoang0211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
