@@ -4,8 +4,9 @@ I am a motivated, hardworking software developer with a strong background in fro
 
 Rightnow, I am a third year student at South-Eastern University of Applied Sciences and working as a full stack developer trainee at Integrify. I am looking for opportunities to gain more experience as a web developer.
 
-- 📫 How to reach me: email[nguyenhoang21155@gmail.com]
+- 📫 How to reach me: [email](nguyenhoang21155@gmail.com)
 - 💬 Ask me about anything, I'm happy to help!
+
 <!--
 **Hoang0211/Hoang0211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
